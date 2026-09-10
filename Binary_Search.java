@@ -67,7 +67,7 @@ System.out.println("Element found at index: " + result);
 
 /* Description: <Describe what this program does briefly>
 
-Programmed by: Sheire Nyle D Cuevas, BSIT, 48079, Data Structures and Algorithms
+Programmed by: Sheire Nyle, BSIT, 48079, Data Structures and Algorithms
 
 Last Modified: September 10, 2026 -- 2:59 PM
 
